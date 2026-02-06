@@ -1,4 +1,3 @@
-# valentine-cta-prank
 # Valentine CTA Prank 💘
 
 A fun single-page website where the **"No"** button refuses to be clicked.
